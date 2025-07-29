@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meli Products</string>
+    <string name="back_button">Volver</string>
+    <string name="back">Volver</string>
+    <string name="product_attributes">Características del producto</string>
+    <string name="description">Descripción</string>
+    <string name="check_all_attributes">Ver todas las características</string>
+    <string name="free_shipping">Envío gratis</string>
+    <string name="search_on_mercado_livre">Buscar en Mercado Libre</string>
+</resources>

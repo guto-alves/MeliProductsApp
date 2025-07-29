@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meli Products</string>
+    <string name="back_button">Voltar</string>
+    <string name="back">Voltar</string>
+    <string name="product_attributes">Características do produto</string>
+    <string name="description">Descrição</string>
+    <string name="check_all_attributes">Conferir todas as características</string>
+    <string name="free_shipping">Entrega Grátis</string>
+    <string name="search_on_mercado_livre">Buscar no Mercado Livre</string>
+</resources>
